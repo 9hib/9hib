@@ -12,7 +12,8 @@ I work mainly with C++ and Python and I am building projects in data processing,
 - Python  
 - C++  
 - JavaScript
-- HTML + CSS
+- Java
+
 
 ### 📊 Data Science & Machine Learning
 - NumPy  
@@ -37,6 +38,7 @@ I work mainly with C++ and Python and I am building projects in data processing,
 
 ## 🧰 Tech Stack Badges
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
