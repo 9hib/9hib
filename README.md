@@ -50,16 +50,6 @@ I work mainly with **C++** and **Python**, building projects in data processing,
 
 <br/>
 
-## Featured Interests
-
-- Contact Management Systems (C++)
-- Data Structures — Dynamic Arrays, Linked Lists
-- Machine Learning Basics
-- Data Analysis Projects
-- Simple ML-powered Web Applications
-
-<br/>
-
 ## Currently Learning
 
 - Advanced Machine Learning models
