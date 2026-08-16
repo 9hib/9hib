@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Sohaib;Software+Developer;Machine+Learning+Enthusiast;C%2B%2B+%7C+Python+%7C+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Sohaib;Software+Engineering;Machine+Learning;C%2B%2B+%7C+Python+%7C+Data" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-I'm interested in Software Engineering, data structures, and machine learning.
+I'm interested in Software Engineering, Data structures, and Machine Learning.
 I work mainly with **C++** and **Python**, building projects in data processing, ML models, and backend logic.
 
 <br/>
