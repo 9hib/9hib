@@ -69,15 +69,6 @@ I work mainly with **C++** and **Python**, building projects in data processing,
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=9hib&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=6B7280&icon_color=6B7280&title_color=1F2937" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=9hib&theme=default&hide_border=true&background=FFFFFF&stroke=FFFFFF&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" width="48%" />
-</div>
-
-<br/>
-
 ## Contact
 
 <div align="center">
